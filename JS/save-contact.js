@@ -38,11 +38,11 @@ function downloadVCard() {
   const vCardData = `
 BEGIN:VCARD
 VERSION:3.0
-FN:ANIL JOSEPH
+FN:SAMYA MASSOUD
 TITLE:Sales Manager
 ORG:RISE Properties
-TEL;TYPE=WORK,VOICE:+971508491296
-EMAIL:Anil@riseproperties.ae
+TEL;TYPE=WORK,VOICE:+971554297433
+EMAIL:Samya@riseproperties.ae
 URL:http://www.riseproperties.ae
 ADR;TYPE=WORK:;;PO Box No 455979, Office NO.1607, Opal Tower, Business Bay;Dubai;;UAE
 END:VCARD
